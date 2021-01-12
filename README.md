@@ -1,4 +1,4 @@
-## 今天学习了吗 :monocle_face
+## 今天学习了吗 :monocle_face:
 
 ### 每日积累
 
