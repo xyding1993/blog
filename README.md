@@ -1,12 +1,10 @@
-## 今天学习了吗 :monocle_face:
+## 今天学习了吗 :monocle_face
 
-### 每日积累
+|            Ⅰ            |           Ⅱ           |                  Ⅲ                  |            Ⅳ            |            Ⅴ            |                Ⅶ                |
+| :---------------------: | :-------------------: | :---------------------------------: | :---------------------: | :---------------------: | :-----------------------------: |
+| [HTML](./Html/index.md) | [CSS](./css/index.md) | [JavaScript](./JavaScript/index.md) | [工具](./工具/index.md) | [面试](./面试/index.md) | [每日积累](./每日积累/index.md) |
 
-#### [1月份](./2021/1/1.md)
-
-### 工具
-
-#### 在线工具
+#### 常用工具
 
 > [CDN 加速服务](https://www.bootcdn.cn/)
 
@@ -14,10 +12,12 @@
 
 > [Tailwind CSS](https://www.tailwindcss.cn/)
 
-#### react
+#### [react](./react/index.md)
 
 > [React Slick](https://react-slick.neostack.com/docs/get-started/)
-React slick is a carousel component built with React.
+> [react-lazyload](https://github.com/twobin/react-lazyload)
+> [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component)
+> [react-lazyload-fadein](https://github.com/Swizec/react-lazyload-fadein)
 
 ### 低代码
 >
