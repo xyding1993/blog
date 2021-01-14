@@ -16,7 +16,7 @@
 
 > - [React Slick](https://react-slick.neostack.com/docs/get-started/)  
 > - [react-lazyload](https://github.com/twobin/react-lazyload)  
-> - [react-lazy-load-image-component](<<https://github.com/Aljullu/react-lazy-load-image-component>)
+> - [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component)
 > - [react-lazyload-fadein](https://github.com/Swizec/react-lazyload-fadein)  
 
 ### 低代码
