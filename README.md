@@ -4,7 +4,7 @@
 | :---------------------: | :-------------------: | :---------------------------------: | :---------------------: | :---------------------: | :-----------------------------: |
 | [HTML](./Html/index.md) | [CSS](./css/index.md) | [JavaScript](./JavaScript/index.md) | [工具](./工具/index.md) | [面试](./面试/index.md) | [每日积累](./每日积累/index.md) |
 
-#### 常用工具
+#### 工具
 
 > [CDN 加速服务](https://www.bootcdn.cn/)
 
@@ -12,12 +12,12 @@
 
 > [Tailwind CSS](https://www.tailwindcss.cn/)
 
-#### [react](./react/index.md)
+#### react
 
-> [React Slick](https://react-slick.neostack.com/docs/get-started/)
-> [react-lazyload](https://github.com/twobin/react-lazyload)
-> [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component)
-> [react-lazyload-fadein](https://github.com/Swizec/react-lazyload-fadein)
+> - [React Slick](https://react-slick.neostack.com/docs/get-started/)  
+> - [react-lazyload](https://github.com/twobin/react-lazyload)  
+> - [react-lazy-load-image-component](<<https://github.com/Aljullu/react-lazy-load-image-component>)
+> - [react-lazyload-fadein](https://github.com/Swizec/react-lazyload-fadein)  
 
 ### 低代码
 >
