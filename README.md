@@ -27,7 +27,7 @@
 
 #### Node.js 框架
 
-> - [[Next.js](<https://nextjs.org/>)](<https://nextjs.org/>)
+> - [[Next.js](<https://nextjs.org/>)
 > - [nuxtjs](https://nuxtjs.org/)
 > - [strapi](https://github.com/strapi/strapi)
 >
